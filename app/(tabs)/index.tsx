@@ -48,7 +48,7 @@ export default function Index() {
           }}
           contentContainerClassName="pb-28 px-5"
           ListHeaderComponent={() => (
-            <View className="flex-between flex-row w-full my-5 px-5">
+            <View className="flex-between flex-row w-full my-5 px-2.5">
               <View className="flex-start">
                 <Text className="small-bold text-primary">DELIVER TO</Text>
                 <TouchableOpacity className="flex-center flex-row gap-x-1 mt-0.5">
